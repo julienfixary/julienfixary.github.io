@@ -1,5 +1,15 @@
 main:
 
+  - title: Unknottedness of Graphs of Pairwise Stable Networks & Network Dynamics
+    authors: Julien Fixary
+    conference: Journal of Mathematical Economics, 2025
+    pdf: ./assets/files/papier_3.pdf
+
+  - title: Oddness of the Number of Nash Equilibria: The Case of Polynomial Payoff Functions
+    authors: Philippe Bich, Julien Fixary
+    conference: Games and Economic Behavior, 2024
+    pdf: ./assets/files/papier_2.pdf
+    
   - title: Network Formation and Pairwise Stability: A New Oddness Theorem
     authors: Philippe Bich, Julien Fixary
     conference: Journal of Mathematical Economics, 2022
