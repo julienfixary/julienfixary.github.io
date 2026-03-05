@@ -8,8 +8,8 @@ I am a Ph.D. student at ...
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Game theory:** image recognition, image generation, video captioning
+- **Network formation theory:** meta-learning, incremental learning, transfer learning
 
 ## News
 
